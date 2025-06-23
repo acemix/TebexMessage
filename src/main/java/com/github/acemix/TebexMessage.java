@@ -1,7 +1,7 @@
 package com.github.acemix;
 
-import com.github.acemix.command.CommandConsole;
-import com.github.acemix.command.TebexMessageReload;
+import com.github.acemix.commands.CommandConsole;
+import com.github.acemix.commands.TebexMessageReload;
 import com.github.acemix.manager.TebexConfigManager;
 
 import org.bukkit.plugin.java.JavaPlugin;

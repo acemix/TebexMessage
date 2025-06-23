@@ -1,4 +1,4 @@
-package com.github.acemix.command;
+package com.github.acemix.commands;
 
 import com.github.acemix.manager.TebexConfigManager;
 import com.github.acemix.utils.ColorUtils;
