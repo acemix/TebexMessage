@@ -1,0 +1,18 @@
+args-cmd:
+  - arg1
+  - arg2
+
+broadcast:
+  message:
+    - "<empty>"
+    - "<center>&a&lGG IN THE CHAT!</center>"
+    - "<empty>"
+    - "<center>&f&e%arg1% &fhas purchased %arg2%&f!</center>"
+    - "%button%"
+    - "<empty>"
+
+button:
+  center-button: 65
+  text: "&fClick to visit our &e&lWEBISTE"
+  hover: "&aGo to our store"
+  open_url: "https://store.server.com/"
